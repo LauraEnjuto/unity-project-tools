@@ -42,7 +42,3 @@ Una vez en Unity:
 - Los scripts están pensados para **proyectos Unity 2020+**.
 - Se recomienda tener una carpeta **limpia** antes de ejecutar, para evitar conflictos con nombres de carpetas existentes.
 - Se pueden modificar fácilmente las rutas y nombres de las carpetas en los scripts.
-
----
-
-¡Listo! Ahora tu proyecto está organizado y listo para trabajar. 🎉
